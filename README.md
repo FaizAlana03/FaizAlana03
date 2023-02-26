@@ -18,10 +18,17 @@ Here are some ideas to get you started:
 # Halo semua! 
 Perkenalkan nama saya **Faiz Alana**.
 
-Saya seorang **Mobile Developer** di [Dicoding](https://www.dicoding.com/).
+Saya seorang **Mahasiswa Informatika** di [Universitas Jenderal Soedirman](https://unsoed.ac.id/).
 
-Saya bertanggung jawab pada kualitas materi Mobile Development dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).
+Saya memiliki ketertarikan pada bidang Kecerdasan Buatan, Machine Learning, dan Mobile Development.
 
-Saya juga memiliki gelar [Google Associate Android Developer](https://www.credential.net/h5deoi5h) sejak 2019.
+Saya juga memiliki keahlian di bidang Live Streaming.
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/faiz-alana-b2b98b267/)ku ya.
+
+<p align="left">
+<a href="https://github.com/FaizAlana03">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=faizalana03&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faizalana03&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
